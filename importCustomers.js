@@ -4,7 +4,7 @@
  * Incluye funciones para obtener archivos, procesar XML y manejar la interfaz de usuario.
  */
 
-const CUST_FOLDER_ID   = '1UIQDeyR1kyLErKRYNvELi9KxvXdcJ7xH'; // ID de la carpeta de clientes en Drive
+const CUST_FOLDER_ID   = '1jFAEy1VhshwOkM2p9IHa0LwSEUEIEKGF2jm-nQxIV-c'; // ID de la carpeta de clientes en Drive
 const CUST_SHEET_NAME  = 'Clientes'; // Nombre de la hoja de clientes
 
 /**
